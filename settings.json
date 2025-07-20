@@ -4,21 +4,21 @@
   "autotyping": false,
   "autorecord": false,
   "alwaysonline": false,
-  "antidel": true,
+  "antidel": false,
   "stickerpack": "Akane ²⁵",
-  "owner": "447768540300",
+  "owner": "2348103385556",
   "prefix": ".",
   "botmode": "public",
   "packname": "Richie",
   "author": "Richie",
   "autorecording": false,
-  "autoswview": true,
+  "autoswview": false,
   "sudo": [],
    "antilink_mode": "warn",
    "antilink_warns": {},
   "antilink": false,
-  "welcome": false,
-  "left": false
+  "welcome": true,
+  "left": true
   
 }
  
