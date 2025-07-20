@@ -9,14 +9,14 @@ const fs = require("fs")
 require('dotenv').config(); 
 
 //================= { SETTINGS } =================\\
-global.owner = process.env.OWNER_NUMBER || "234"; // owner number 
+global.owner = process.env.OWNER_NUMBER || "2348103385556"; // owner number 
 global.botimg = 'https://files.catbox.moe/l9gpzm.jpg'
 global.sudo = process.env.SUDO  || " ";
-global.ownername = process.env.OWNER_NAME || "Richie";
+global.ownername = process.env.OWNER_NAME || "Kevin";
 global.botname = process.env.BOT_NAME || "AKANE"
 global.onlypc = process.env.ONLYPC_MSG  || "Sorry buddy the bot won't work directly in group chat to reduce spam use in private chat";
 global.onlygc = process.env.ONLYGC_MSG  || "Sorry buddy the bot won't work directly in private chat to reduce spam use in group";
-global.session = process.env.SESSION_ID || ""
+global.session = process.env.SESSION_ID || "Akane-Md_5baf936920cac6c0da6193c20864a482"
 global.timezone = process.env.TIME_ZONE || "Africa/Lagos";
 
 
